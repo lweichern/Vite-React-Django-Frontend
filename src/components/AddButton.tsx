@@ -1,5 +1,3 @@
-import { Plus } from "lucide-react";
-import React from "react";
 import { EventModal } from "./EventModal";
 
 function AddButton() {

@@ -1,7 +1,6 @@
 import axios from "axios";
 import React, { useState } from "react";
 import { Input } from "./ui/input";
-import { Button } from "./ui/button";
 import { useEventStore } from "../lib/stateManagement";
 
 function EventForm() {
