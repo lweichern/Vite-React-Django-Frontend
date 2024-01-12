@@ -19,5 +19,5 @@ export default defineConfig({
       },
     },
   },
-  base: "/Vite-React-Django-Frontend/",
+  // base: "/Vite-React-Django-Frontend/",
 });
